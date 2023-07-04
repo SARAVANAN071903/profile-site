@@ -1,0 +1,69 @@
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding-top: 5px;
+    padding-bottom: 0%;
+    
+    height: 250px;
+}
+.skill{
+    background-color: #FBFFDC;
+}
+.title{
+    background-color: #D6E8DB;
+    height: 250px;
+    text-align: center;
+    padding-top: 35px;
+
+
+}
+.header{
+
+    font-family: 'Lobster', cursive;
+    font-size:xx-large;
+}
+.picture-me{
+    height: 150px;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+.image{
+display: flex;
+justify-content: center;
+}
+.hello{
+    display: flex;
+    justify-content: center;
+    color: #00bfff;
+   }
+.few-lines  p {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-family: 'Noto Serif', serif;
+}
+.info{
+    padding-top: 10px;
+}
+.list h2{
+    color: #00bfff;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px; 
+}
+
+.h1{
+    color: #00bfff;
+}
+.list-project{
+    float: right;
+}
+.contact{
+    margin-top:20px;
+    padding-top: 20px;
+    background-color: #D6E8DB;
+    height: 150px;
+}
